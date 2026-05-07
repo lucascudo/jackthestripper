@@ -6,7 +6,7 @@
 
 You can know more in https://lampiaosec.github.io/jackthestripper.
 
-# Developpers
+# Developers
 
 - n3k00n3   <https://github.com/n3k00n3>
 - UserX     <https://github.com/UserXGnu>
